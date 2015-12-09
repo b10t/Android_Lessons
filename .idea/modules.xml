@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ p0111_ResValues/ p0111_ResValues.iml" filepath="$PROJECT_DIR$/ p0111_ResValues/ p0111_ResValues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android_Lessons.iml" filepath="$PROJECT_DIR$/Android_Lessons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0102_ActivityListener/p0102_ActivityListener.iml" filepath="$PROJECT_DIR$/p0102_ActivityListener/p0102_ActivityListener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0121_LogAndMess/p0121_LogAndMess.iml" filepath="$PROJECT_DIR$/p0121_LogAndMess/p0121_LogAndMess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0131_MenuSimple/p0131_MenuSimple.iml" filepath="$PROJECT_DIR$/p0131_MenuSimple/p0131_MenuSimple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0141_MenuAdv/p0141_MenuAdv.iml" filepath="$PROJECT_DIR$/p0141_MenuAdv/p0141_MenuAdv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0161_DynamicLayout/p0161_DynamicLayout.iml" filepath="$PROJECT_DIR$/p0161_DynamicLayout/p0161_DynamicLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0171_DynamicLayout2/p0171_DynamicLayout2.iml" filepath="$PROJECT_DIR$/p0171_DynamicLayout2/p0171_DynamicLayout2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0181_DynamicLayout3/p0181_DynamicLayout3.iml" filepath="$PROJECT_DIR$/p0181_DynamicLayout3/p0181_DynamicLayout3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0211_TwoActivity/p0211_TwoActivity.iml" filepath="$PROJECT_DIR$/p0211_TwoActivity/p0211_TwoActivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0231_OneActivityState/p0231_OneActivityState.iml" filepath="$PROJECT_DIR$/p0231_OneActivityState/p0231_OneActivityState.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0241_TwoActivityState/p0241_TwoActivityState.iml" filepath="$PROJECT_DIR$/p0241_TwoActivityState/p0241_TwoActivityState.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0261_IntentFilter/p0261_IntentFilter.iml" filepath="$PROJECT_DIR$/p0261_IntentFilter/p0261_IntentFilter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0271_GetIntentAction/p0271_GetIntentAction.iml" filepath="$PROJECT_DIR$/p0271_GetIntentAction/p0271_GetIntentAction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0281_IntentExtras/p0281_IntentExtras.iml" filepath="$PROJECT_DIR$/p0281_IntentExtras/p0281_IntentExtras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0291_SimpleActivityResult/p0291_SimpleActivityResult.iml" filepath="$PROJECT_DIR$/p0291_SimpleActivityResult/p0291_SimpleActivityResult.iml" />
+    </modules>
+  </component>
+</project>

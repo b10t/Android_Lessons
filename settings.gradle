@@ -1,0 +1,1 @@
+include ':app', ':p0102_ActivityListener', ': p0111_ResValues', ':p0121_LogAndMess', ':p0131_MenuSimple', ':p0141_MenuAdv', ':p0161_DynamicLayout', ':p0171_DynamicLayout2', ':p0181_DynamicLayout3', ':p0211_TwoActivity', ':p0231_OneActivityState', ':p0241_TwoActivityState', ':p0261_IntentFilter', ':p0271_GetIntentAction', ':p0281_IntentExtras', ':p0291_SimpleActivityResult'
